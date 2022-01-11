@@ -1,4 +1,6 @@
-# task7
+# Vue slider
+
+## press "start" to fetching image from remote server
 
 ## Project setup
 ```
